@@ -15,5 +15,13 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylalex/typescript-introduction-SergioGonzalez24.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naylalex/typescript-introduction-SergioGonzalez24/issues"
+  },
+  "homepage": "https://github.com/naylalex/typescript-introduction-SergioGonzalez24#readme"
 }
